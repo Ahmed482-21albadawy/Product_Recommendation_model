@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Weight_Volume,Shelf_Life,Date,Price
+1,Milk,Dairy,1L,Perishable,1/1/2022,28.2
+2,Cheese (Cheddar),Dairy,500g,Perishable,1/1/2022,152.84
+3,Yogurt,Dairy,500g,Perishable,1/1/2022,10.22
+4,Butter,Dairy,250g,Perishable,1/1/2022,90.57
+5,Cream,Dairy,200ml,Perishable,1/1/2022,50.33
+6,Mozzarella,Dairy,300g,Perishable,1/1/2022,172.08
+7,Ice Cream,Dairy,400g,Perishable,1/1/2022,35
+8,Almond Milk,Dairy,1L,Perishable,1/1/2022,68.78
+9,Condensed Milk,Dairy,1L,Non-Perishable,1/1/2022,34.15
+10,Whipping Cream,Dairy,500ml,Perishable,1/1/2022,53.2
+11,Coca-Cola,Beverages,500ml,Non-Perishable,1/1/2022,13.46
+12,Pepsi,Beverages,500ml,Non-Perishable,1/1/2022,14.45
+13,Orange Juice,Beverages,1L,Perishable,1/1/2022,24.97
+14,Apple Juice,Beverages,1L,Perishable,1/1/2022,26.25
+15,Mineral Water,Beverages,500ml,Non-Perishable,1/1/2022,2.87
+16,Iced Coffee,Beverages,500g,Perishable,1/1/2022,34.14
+17,Green Tea,Beverages,200g,Non-Perishable,1/1/2022,20.84
+18,Energy Drink,Beverages,250ml,Non-Perishable,1/1/2022,31.48
+19,Lemonade,Beverages,1L,Perishable,1/1/2022,15.33
+20,Iced Tea,Beverages,1L,Perishable,1/1/2022,17.5
+21,Potato Chips,Snacks,200g,Non-Perishable,1/1/2022,9.79
+22,Chocolate Bar,Snacks,100g,Non-Perishable,1/1/2022,20.62
+23,Cookies,Snacks,300g,Non-Perishable,1/1/2022,30.32
+24,Popcorn,Snacks,150g,Non-Perishable,1/1/2022,10.27
+25,Pretzels,Snacks,200g,Non-Perishable,1/1/2022,12.32
+26,Donuts,Snacks,200g,Non-Perishable,1/1/2022,15.66
+27,Crackers,Snacks,300g,Non-Perishable,1/1/2022,18.05
+28,Nuts (Mixed),Snacks,500g,Non-Perishable,1/1/2022,199.34
+29,Dried Fruit,Snacks,400g,Non-Perishable,1/1/2022,151.11
+30,Rice Cakes,Snacks,200g,Non-Perishable,1/1/2022,19.46
+31,Apples,Fruits,1kg,Perishable,1/1/2022,19.53
+32,Bananas,Fruits,1kg,Perishable,1/1/2022,17.45
+33,Oranges,Fruits,1kg,Perishable,1/1/2022,14.45
+34,Grapes,Fruits,1kg,Perishable,1/1/2022,31.47
+35,Strawberries,Fruits,500g,Perishable,1/1/2022,38.36
+36,Blueberries,Fruits,500g,Perishable,1/1/2022,59.11
+37,Pineapple,Fruits,1kg,Perishable,1/1/2022,28.58
+38,Mango,Fruits,1kg,Perishable,1/1/2022,40.42
+39,Watermelon,Fruits,5kg,Perishable,1/1/2022,29.93
+40,Peaches,Fruits,1kg,Perishable,1/1/2022,25.81
+41,Tomatoes,Vegetables,1kg,Perishable,1/1/2022,10.45
+42,Potatoes,Vegetables,1kg,Perishable,1/1/2022,8.22
+43,Carrots,Vegetables,1kg,Perishable,1/1/2022,8.32
+44,Lettuce,Vegetables,1kg,Perishable,1/1/2022,7.17
+45,Onions,Vegetables,1kg,Perishable,1/1/2022,6.81
+46,Cucumbers,Vegetables,1kg,Perishable,1/1/2022,8.34
+47,Bell Peppers,Vegetables,1kg,Perishable,1/1/2022,20.29
+48,Garlic,Vegetables,1kg,Perishable,1/1/2022,29.8
+49,Eggplant,Vegetables,500g,Perishable,1/1/2022,12.38
+50,Green Onion,Vegetables,1kg,Perishable,1/1/2022,4.79
